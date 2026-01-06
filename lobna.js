@@ -7,3 +7,8 @@ console.log("lobna dev");
 
 
 
+
+
+// ex2 console log ur birth date
+
+
